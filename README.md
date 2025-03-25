@@ -6,7 +6,7 @@
 
 ### **Job**: working on two national projects related to brain and cognitive development in newly born children and adolescent (10-20 yr old) kids in the US.
 
-### Research: Ants, behavioral plasticity, biological rhythms [Google Scholar](https://scholar.google.co.in/citations?user=Xrx37IoAAAAJ&hl)
+### Research: Ants, behavioral plasticity, biological rhythms [(articles)](https://scholar.google.co.in/citations?user=Xrx37IoAAAAJ&hl)
 
 - [**LinkedIn**](https://linkedin.com/in/biplabendu), [**Website:**](https://biplabendu.github.io/homepage)
 
