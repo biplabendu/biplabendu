@@ -4,7 +4,7 @@
 
 ## Integrative biologist and data scientist.
 
-### **Job**: working on two national projects related to brain and cognitive development in newly born children and adolescent (10-20 yr old) kids in the US.
+### **Job**: Part of two national projects in the US, one monitoring brain and cognitive development in newly born children and the other in adolescents.
 
 ### Research: Ants, behavioral plasticity, biological rhythms [(articles)](https://scholar.google.co.in/citations?user=Xrx37IoAAAAJ&hl)
 
