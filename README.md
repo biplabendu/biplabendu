@@ -4,10 +4,20 @@
 
 ## Integrative biologist and data scientist.
 
-### **Job**: Part of two national projects in the US, one monitoring brain and cognitive development in newly born children and the other in adolescents.
+### `Current employment`
+1. Work on two national projects in the US, monitoring brain and cognitive development in newly born children and in adolescents.
+2. Founder of a small-scale consulting organization – Beep Boop Stats, LLC – that provides data-driven solutions to consumers.
 
-### Research: Ants, behavioral plasticity, biological rhythms [(articles)](https://scholar.google.co.in/citations?user=Xrx37IoAAAAJ&hl)
+### `Research` 
+* Ants 
+* Behavioral plasticity
+* Biological rhythms 
+* RNASeq-analyses
+* R package development
 
+See published articles on [Google Scholar](https://scholar.google.co.in/citations?user=Xrx37IoAAAAJ&hl)
+
+### Read more
 - [**LinkedIn**](https://linkedin.com/in/biplabendu)
 - [**Website**](https://biplabendu.github.io/homepage)
 - [**Beep Boop Stats, LLC**](https://www.beepboopstats.com/)
