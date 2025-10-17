@@ -8,7 +8,7 @@
 
 ### Research: Ants, behavioral plasticity, biological rhythms [(articles)](https://scholar.google.co.in/citations?user=Xrx37IoAAAAJ&hl)
 
-- [**LinkedIn**](https://linkedin.com/in/biplabendu), [**Website:**](https://biplabendu.github.io/homepage)
+- [**LinkedIn**](https://linkedin.com/in/biplabendu), [**Website**](https://biplabendu.github.io/homepage), [**Beep Boop Stats, LLC**](https://www.beepboopstats.com/)
 
 ---
 
